@@ -1,13 +1,9 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - headline: Welcome to the Tina Starter
-    text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      `content/pages/home.md`, components from components/blocks, and puts them
-      all together in `pages/[filename].tsx`, all based on a config
-      `tina/config.tsx`.
+  - headline: 雨诺家政服务--您的家庭助理
+    text: |
+      雨诺家政提供家电清洗、弱电铺设、IT网站建设、电脑维修、小初学习辅导等等您能想的到的服务。
     actions:
       - label: Get Started
         type: button
@@ -56,6 +52,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
