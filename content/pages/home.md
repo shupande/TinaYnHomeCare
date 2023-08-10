@@ -22,7 +22,7 @@ blocks:
     _template: hero
   - items:
       - icon:
-          name: BiCodeBlock
+          name: BiWorld
           color: red
           style: float
         title: 家电清洗维修
@@ -50,6 +50,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
