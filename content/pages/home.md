@@ -5,11 +5,11 @@ blocks:
     text: |
       雨诺家政提供家电清洗、弱电铺设、IT网站建设、电脑维修、中小学学业辅导等等您能想的到的服务。
     actions:
-      - label: Get Started
+      - label: 现在预约
         type: button
         icon: true
         link: /posts
-      - label: Read Blog
+      - label: 了解更多
         type: link
         icon: false
         link: /posts
@@ -48,6 +48,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
