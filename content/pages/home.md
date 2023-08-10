@@ -26,13 +26,13 @@ blocks:
           color: red
           style: float
         title: 家电清洗维修
-        text: 空调、洗衣机、抽油烟机深度清洁，故障处理
+        text: 空调、冰箱、洗衣机、抽油烟机等家电深度清洁，故障处理
       - icon:
           name: BiLike
           color: primary
           style: float
         title: 电脑网络维修
-        text: 电脑排障升级、系统软件重装、WIFI全屋覆盖
+        text: 电脑排障升级、系统软件重装、WIFI全屋覆盖、网线制作铺设
       - icon:
           name: BiPalette
           color: green
@@ -48,6 +48,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
