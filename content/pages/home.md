@@ -37,10 +37,8 @@ blocks:
           name: BiPalette
           color: green
           style: float
-        title: Configurable Theme
-        text: >-
-          Edit global theme configuration with Tina. Change your theme's primary
-          color, font, or icon set.
+        title: 智慧服务
+        text: 中小学英语辅导、CAD消防平面制图、ChatGPT GPT4、Midjourney
     color: tint
     _template: features
   - quote: >-
@@ -50,6 +48,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
