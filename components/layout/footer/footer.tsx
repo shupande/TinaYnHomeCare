@@ -76,13 +76,13 @@ export const Footer = ({ data, icon, rawData }) => {
                 />
               </a>
             )}
-            {data.social && data.social.twitter && (
+            {data.social && data.social.tiktok && (
               <a
                 className="inline-block opacity-80 hover:opacity-100 transition ease-out duration-150"
-                href={data.social.twitter}
+                href={data.social.tiktok}
                 target="_blank"
               >
-                <Fatwitter
+                <FaTiktok
                   className={`${socialIconClasses} ${
                     socialIconColorClasses[
                       data.color === "primary" ? "primary" : theme.color
