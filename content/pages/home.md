@@ -12,7 +12,7 @@ blocks:
       - label: 了解价格
         type: link
         icon: false
-        link: /posts
+        link: /catalog
     image:
       src: /uploads/labor.png
       alt: >-
@@ -48,6 +48,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
