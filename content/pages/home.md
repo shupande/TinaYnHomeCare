@@ -44,10 +44,11 @@ blocks:
   - quote: |-
       从琐碎中解放，满足您的每一个需求，让您享受家庭的美好时光
       照料您的家，关爱您的生活
-    author: 深圳雨诺家政服务
+    author: 雨诺家政服务
     color: primary
     _template: testimonial
 ---
+
 
 
 
