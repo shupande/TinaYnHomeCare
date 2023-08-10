@@ -1,7 +1,8 @@
 ---
 name: 雨诺家政
-avatar: /uploads/llama-2.avif
+avatar: /uploads/logo.jpg
 ---
+
 
 
 
