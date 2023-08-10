@@ -38,7 +38,7 @@ blocks:
           color: green
           style: float
         title: 智慧服务
-        text: 中小学英语辅导、CAD消防平面制图、ChatGPT GPT4、Midjourney
+        text: 中小学英语家教、CAD消防平面制图、ChatGPT GPT4、Midjourney
     color: tint
     _template: features
   - quote: >-
@@ -48,6 +48,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
