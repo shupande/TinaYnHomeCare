@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { FaFacebookF, FaGithub, FaTwitter } from "react-icons/fa";
+import { FaFacebookF, FaGithub, Fatiktok } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
 import { Container } from "../../util/container";
 import { RawRenderer } from "./rawRenderer";
@@ -76,13 +76,13 @@ export const Footer = ({ data, icon, rawData }) => {
                 />
               </a>
             )}
-            {data.social && data.social.twitter && (
+            {data.social && data.social.tiktok && (
               <a
                 className="inline-block opacity-80 hover:opacity-100 transition ease-out duration-150"
-                href={data.social.twitter}
+                href={data.social.tiktok}
                 target="_blank"
               >
-                <FaTwitter
+                <Fatiktok
                   className={`${socialIconClasses} ${
                     socialIconColorClasses[
                       data.color === "primary" ? "primary" : theme.color
