@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { FaFacebookF, FaGithub, Fatwitter } from "react-icons/fa";
+import { FaFacebookF, FaGithub, FaTiktok } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
 import { Container } from "../../util/container";
 import { RawRenderer } from "./rawRenderer";
