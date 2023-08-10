@@ -25,10 +25,8 @@ blocks:
           name: BiCodeBlock
           color: red
           style: float
-        title: Amazing Feature
-        text: >-
-          Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
-          Praesent ac faucibus risus, eu lacinia enim.
+        title: 家电清洗维修
+        text: 空调、洗衣机、抽油烟机深度清洁，故障处理
       - icon:
           name: BiLike
           color: primary
@@ -52,6 +50,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
