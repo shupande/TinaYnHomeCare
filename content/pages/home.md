@@ -32,7 +32,7 @@ blocks:
           color: primary
           style: float
         title: 电脑网络维修
-        text: 电脑排障升级、系统软件重装、WIFI全屋覆盖、网线制作铺设
+        text: 电脑排障升级、系统软件重装、WIFI全屋覆盖、网线制作铺设、外贸网络方案
       - icon:
           name: BiPalette
           color: green
@@ -48,6 +48,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
