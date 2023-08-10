@@ -41,11 +41,14 @@ blocks:
         text: 中小学英语家教、CAD消防平面制图、网站建设、Google Ad和Facebook推广、Midjourney和GPT4订阅
     color: tint
     _template: features
-  - quote: 从琐碎中解放，满足您的每一个需求，让您享受家庭的美好时光
+  - quote: |-
+      从琐碎中解放，满足您的每一个需求，让您享受家庭的美好时光
+      照料您的家，关爱您的生活
     author: 深圳雨诺家政服务
     color: primary
     _template: testimonial
 ---
+
 
 
 
