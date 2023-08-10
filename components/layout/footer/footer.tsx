@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { FaFacebookF, FaGithub, FaTiktok } from "react-icons/fa";
+import { SiWechat, FaGithub, FaTiktok } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
 import { Container } from "../../util/container";
 import { RawRenderer } from "./rawRenderer";
@@ -67,7 +67,7 @@ export const Footer = ({ data, icon, rawData }) => {
                 href={data.social.facebook}
                 target="_blank"
               >
-                <FaFacebookF
+                <SiWechat
                   className={`${socialIconClasses} ${
                     socialIconColorClasses[
                       data.color === "primary" ? "primary" : theme.color
