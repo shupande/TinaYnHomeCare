@@ -31,8 +31,8 @@ blocks:
           name: BiLike
           color: primary
           style: float
-        title: This Is a Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+        title: 电脑网络维修
+        text: 电脑排障升级、系统软件重装、WIFI全屋覆盖
       - icon:
           name: BiPalette
           color: green
@@ -50,6 +50,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
