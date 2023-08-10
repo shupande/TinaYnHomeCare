@@ -26,7 +26,7 @@ blocks:
           color: red
           style: float
         title: 家电清洗维修
-        text: 空调、冰箱、洗衣机、抽油烟机等家电深度清洁，故障处理
+        text: 空调、冰箱、洗衣机、热水器、抽油烟机等家电的安装、深度清洁故障维修处理，插座、开关面板、小灯具、水龙头的安装更换
       - icon:
           name: BiLike
           color: primary
@@ -48,6 +48,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
