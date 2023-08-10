@@ -3,13 +3,13 @@ title: Tina Cloud Starter
 blocks:
   - headline: 雨诺家政服务—您的家庭管家
     text: |
-      雨诺家政提供家电清洗、弱电铺设、IT网站建设、电脑维修、中小学学业辅导等等您能想的到的服务。
+      您所需要的服务我们提供，所有工作人员均合法持证上岗。我们承诺：费用公开透明、绝不中途加价。
     actions:
       - label: 现在预约
         type: button
         icon: true
         link: /posts
-      - label: 了解更多
+      - label: 了解价格
         type: link
         icon: false
         link: /posts
@@ -48,6 +48,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
