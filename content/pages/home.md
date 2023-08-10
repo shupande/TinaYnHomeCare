@@ -32,13 +32,13 @@ blocks:
           color: primary
           style: float
         title: 电脑网络维修
-        text: 电脑排障升级、系统软件重装、WIFI全屋覆盖、网线制作铺设、外贸网络方案
+        text: 电脑排障升级、系统软件重装、WIFI全屋覆盖、网线制作铺设、公司外贸网络方案、软路由、OpenWrt
       - icon:
           name: BiPalette
           color: green
           style: float
         title: 智慧服务
-        text: 中小学英语家教、CAD消防平面制图、ChatGPT GPT4、Midjourney
+        text: 中小学英语家教、CAD消防平面制图、网站建设、Google Ad和Facebook推广、Midjourney和GPT4订阅
     color: tint
     _template: features
   - quote: >-
@@ -48,6 +48,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
