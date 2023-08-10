@@ -22,14 +22,14 @@ blocks:
     _template: hero
   - items:
       - icon:
-          name: BiWorld
-          color: red
+          name: BiLike
+          color: blue
           style: float
         title: 家电清洗维修
         text: 空调、冰箱、洗衣机、热水器、抽油烟机等家电的安装、深度清洁故障维修处理，插座、开关面板、小灯具、水龙头的安装更换
       - icon:
-          name: BiLike
-          color: primary
+          name: BiWorld
+          color: red
           style: float
         title: 电脑网络维修
         text: 电脑排障升级、系统软件重装、WIFI全屋覆盖、网线制作铺设、公司外贸网络方案、软路由、OpenWrt
@@ -48,6 +48,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
