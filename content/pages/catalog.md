@@ -2,16 +2,11 @@
 title: 业务分类
 blocks:
   - body: |
-      |  表头   | 表头  |
-
-      |  ----  | ----  |
-
-      | 单元格  | 单元格 |
-
-      | 单元格  | 单元格 |
+      测试一下吧，到底是怎么回事。
     color: default
     _template: content
 ---
+
 
 
 
