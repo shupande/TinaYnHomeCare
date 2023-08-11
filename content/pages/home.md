@@ -8,7 +8,7 @@ blocks:
       - label: 现在预约
         type: button
         icon: true
-        link: /posts
+        link: /catalog
       - label: 了解价格
         type: link
         icon: false
@@ -48,6 +48,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
