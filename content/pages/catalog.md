@@ -14,10 +14,12 @@ blocks:
 
       ![](/uploads/tutor.png)
 
+      > 家电清洗、电脑网络维护可签订公对公包月长期服务，提供发票。\
       > 预约电话：18938666748
     color: default
     _template: content
 ---
+
 
 
 
