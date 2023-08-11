@@ -28,9 +28,9 @@
   "footer": {
     "color": "default",
     "social": {
-      "Facebook": "/",
-      "Twitter": "/",
-      "Instagram": "/"
+      "facebook": "/",
+      "twitter": "/",
+      "instagram": "/"
     }
   },
   "theme": {
