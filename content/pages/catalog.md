@@ -4,7 +4,7 @@ blocks:
   - body: |
       ### &#x20;                    家电清洗服务
 
-      ![](/uploads/Appliances.png)
+      ![](/uploads/Appliances.png)![](/uploads/AcPricing.png)
 
       ### &#x20;                     电脑网络维修
 
@@ -20,6 +20,7 @@ blocks:
     color: default
     _template: content
 ---
+
 
 
 
