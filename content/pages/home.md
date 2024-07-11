@@ -40,7 +40,7 @@ blocks:
           color: green
           style: float
         title: 智慧服务
-        text: 中小学英语家教、CAD消防平面制图、网站建设、Google Ad和Facebook推广、Midjourney和GPT4订阅
+        text: 中小学英语家教、CAD消防平面制图、网站建设、Google Ads和Facebook推广、Midjourney和GPT4订阅
     color: tint
     _template: features
   - quote: |-
@@ -50,32 +50,4 @@ blocks:
     color: primary
     _template: testimonial
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
